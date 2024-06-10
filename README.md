@@ -1,5 +1,5 @@
 
-<h1>Boas vinda ao meu perfil👋</h1>
+<h1>Boas vindas ao meu perfil👋</h1>
 
 
  Meu nome é Felipe Araujo Silva, tenho 17 anos
