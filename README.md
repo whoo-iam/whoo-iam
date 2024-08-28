@@ -22,6 +22,6 @@
 * Ex-jogador profissional de eSports de Tom Clancy's Rainbow Six Siege
 * Faço parte do grêmio estudantio da escola Rubens Moreira da Rocha Professor na função de Coordenador Financeiro
 * Aniversario: 21/06
-* Instagram: @theyhatelipe
+* Instagram: @lipxvswrld
 * TikTok: @littlefefs
 
