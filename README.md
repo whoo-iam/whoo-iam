@@ -2,7 +2,7 @@
 <h1>Boas vindas ao meu perfil👋</h1>
 
 
- Meu nome é Felipe Araujo Silva, tenho 17 anos
+ Meu nome é Felipe Araujo Silva, tenho 18 anos
 
   Estou cursando o 3º ano do ensino medio e tenho o sonho em trabalhar com programação na função de fullstack,
   no momento estou aprendendo sobre CSS3, HTML5 e JavaScript com o intuito de aprender a fazer desde um site a um aplicativo mobile 
@@ -16,6 +16,7 @@
 * Alura
 * B7Web
 * Cod3r
+* Analise desenvolvimento de sistemas - FIAP
 
 <h3>Mais sobre mim:</h3>
 
