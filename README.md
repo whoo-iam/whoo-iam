@@ -7,12 +7,8 @@
   Recentemente conclui o ensino medio e tenho o sonho em trabalhar com programação na função de back-end
 
 <h3>
-  Estou atualmente cursando os cursos
+  Estou atualmente fazendo faculdade de Desenvolvimento de sistemas na FIAP e fazendo o curso da B7Web
 </h3>
-
-
-* B7Web
-* Analise desenvolvimento de sistemas - FIAP
 
 <h3>Mais sobre mim:</h3>
 
