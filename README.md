@@ -4,7 +4,7 @@
 
  Meu nome é Felipe Araujo Silva, tenho 18 anos
 
-  Estou cursando o 3º ano do ensino medio e tenho o sonho em trabalhar com programação na função de fullstack,
+  Recentemente conclui o ensino medio e tenho o sonho em trabalhar com programação na função de fullstack,
   no momento estou aprendendo sobre CSS3, HTML5 e JavaScript com o intuito de aprender a fazer desde um site a um aplicativo mobile 
 
 
